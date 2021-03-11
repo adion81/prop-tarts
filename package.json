@@ -1,5 +1,6 @@
 {
   "name": "pop-tarts",
+  "homepage": "https://adion81.github.io/prop-tarts/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
